@@ -1,0 +1,18 @@
+body {
+	font-size: 16px;
+	font-family: Helvettica;
+	background-color: aquamarine;
+	color: solid black;
+}  
+header {
+	background-color: lightcoral;
+	height: 70px;
+
+}
+
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 0px;
+	text-shadow: 2px 2px 2px #222;
+}
